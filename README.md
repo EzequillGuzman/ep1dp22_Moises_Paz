@@ -17,7 +17,7 @@
 
  3.Indicar si el promedio de las longitudes es mayor, menor o igual que la suma de las longitudes del segundo con el tercer texto.
 
-| ** No** |**Aspecto**|**Punteo**  |
+| **No.** |**Aspecto**|**Punteo**  |
 | ------------ | ------------ | ------------ |
 | 1.  | Uso de las 4 fases para solucionar problemas  |  32 |
 |   |  **Ejecución (solución utilizando el lenguaje Python)** |   |
@@ -43,7 +43,7 @@
 **Importante:**
 • Crear una clase por archivo.
 
-| ** No** |**Aspecto**|**Punteo**  |
+|**No.**|**Aspecto**|**Punteo**  |
 | ------------ | ------------ | ------------ |
 | 1.  | Creación de clases (atributos y métodos)  |  20 |
 | 2. | Herencia |  15 |
